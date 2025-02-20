@@ -1,4 +1,4 @@
-# Hello there 👋, I'm [Ricardo Marquina](https://ricardomarquina.vercel.app/)
+# Hello there 👋, I'm [Ivan Naumov](https://ricardomarquina.vercel.app/)
 
 <a href="https://stars.github.com/profiles/denvercoder1/">
     <img src="https://github.com/RicardoMarquina1989/RicardoMarquina1989/blob/main/gifs/bars.gif" alt="Bars Action"/>
@@ -6,7 +6,7 @@
 
 ## 📖 About me
 
-**Backend-focused Full-Stack Engineer with over 10 years of experience and advanced expertise in Node.js, Express.js, Python, and PHP. Skilled in frontend development with React.js, Angular, and Vue.js. Strong in architecting scalable microservices, developing advanced APIs using GraphQL, and implementing efficient CI/CD pipelines with Jenkins.**
+**Frontend-focused Full-Stack Engineer with advanced skills in React, Angular, and Node.Js. Skilled in creating dynamic, responsive web applications and experienced in integratingwithGraphQL APIs and optimizing frontend performance. Proficient in backend technologies like Node.js, Python, Java, and PHP, enabling seamlessfull-stack development.**
 
 ## 📖 What can I do for you?
 
@@ -97,13 +97,13 @@ I am always ready to bring your ideas to real life. Also, what I want to do thro
 
 <details open>
   <summary><b>⚡ My Dynamic Activity</b></summary>
-  <img height="340em" width="100%" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=RicardoMarquina1989&show_icons=true&line_height=27&include_all_commits=true" alt="My github stats" />
+  <img height="340em" width="100%" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Manbi912&show_icons=true&line_height=27&include_all_commits=true" alt="My github stats" />
 </details>
 
 <details open>
   <summary><b>🚀  My Programming Language Trending </b></summary>
   <br />
-  <img height="340em" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RicardoMarquina1989&show_icons=true&hide_border=true&layout=compact&langs_count=10"/>
+  <img height="340em" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manbi912&show_icons=true&hide_border=true&layout=compact&langs_count=10"/>
 </details>
 
 <br/>
