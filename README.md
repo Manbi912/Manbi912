@@ -36,24 +36,6 @@ Here are my services what I can help you with:
 
 ### Technologies
 
-#### Blockchain
-
-![Blockchain](https://img.shields.io/badge/Blockchain.com-121D33.svg?style=for-the-badge&logo=blockchaindotcom&logoColor=white)
-![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D.svg?style=for-the-badge&logo=Ethereum&logoColor=white)
-![Bot Development](https://img.shields.io/badge/Coinbase-0052FF.svg?style=for-the-badge&logo=Coinbase&logoColor=white)
-![Telegram Bot](https://img.shields.io/badge/Telegram-26A5E4.svg?style=for-the-badge&logo=Telegram&logoColor=white)
-![Discord Bot](https://img.shields.io/badge/Discord-5865F2.svg?style=for-the-badge&logo=Discord&logoColor=white)
-![Solana](https://img.shields.io/badge/Solana-9945FF.svg?style=for-the-badge&logo=Solana&logoColor=white)
-![Binance](https://img.shields.io/badge/Binance-F0B90B.svg?style=for-the-badge&logo=Binance&logoColor=black)
-![Dex](https://img.shields.io/badge/CoinMarketCap-17181B.svg?style=for-the-badge&logo=CoinMarketCap&logoColor=white)
-![Wallet Connection](https://img.shields.io/badge/WalletConnect-3B99FC.svg?style=for-the-badge&logo=WalletConnect&logoColor=white)
-![Web3 js](https://img.shields.io/badge/Web3.js-F16822.svg?style=for-the-badge&logo=web3dotjs&logoColor=white)
-![Dapps](https://img.shields.io/badge/Coinbase-0052FF.svg?style=for-the-badge&logo=Coinbase&logoColor=white)
-![BitCoin](https://img.shields.io/badge/Bitcoin-000?style=for-the-badge&logo=bitcoin&logoColor=white)
-![Meme Coin](https://img.shields.io/badge/Coinbase-0052FF.svg?style=for-the-badge&logo=Coinbase&logoColor=white)
-![Doge Coin](https://img.shields.io/badge/Dogecoin-C2A633.svg?style=for-the-badge&logo=Dogecoin&logoColor=white)
-![Lite Coin](https://img.shields.io/badge/Litecoin-A6A9AA.svg?style=for-the-badge&logo=Litecoin&logoColor=white)
-
 #### Fullstack
 
 ![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
