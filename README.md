@@ -10,7 +10,7 @@
 
 ## 📖 What can I do for you?
 
-Highly skilled and experienced Senior Full Stack and Blockchain Developer seeking a challenging position in a dynamic organization. Demonstrating a consistent record of delivering exceptional, scalable, and efficient solutions, I excel in multiple programming languages and frameworks. I possess strong problem-solving abilities and a keen eye for detail, ensuring optimal performance and user experience. Committed to staying updated with the latest technologies, I aim to contribute my expertise and drive innovation in a collaborative team environment.
+Highly skilled and experienced Senior Full Stack Developer seeking a challenging position in a dynamic organization. Demonstrating a consistent record of delivering exceptional, scalable, and efficient solutions, I excel in multiple programming languages and frameworks. I possess strong problem-solving abilities and a keen eye for detail, ensuring optimal performance and user experience. Committed to staying updated with the latest technologies, I aim to contribute my expertise and drive innovation in a collaborative team environment.
 
 Here are my services what I can help you with:
 
