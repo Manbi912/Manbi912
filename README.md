@@ -1,4 +1,4 @@
-# Hello there 👋, I'm [Ivan Naumov](https://ricardomarquina.vercel.app/)
+# Hello there 👋, I'm [Ancient Sorcerer]
 
 <a href="https://stars.github.com/profiles/denvercoder1/">
     <img src="https://github.com/RicardoMarquina1989/RicardoMarquina1989/blob/main/gifs/bars.gif" alt="Bars Action"/>
