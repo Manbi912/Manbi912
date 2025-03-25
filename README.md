@@ -1,16 +1,16 @@
-# Hello there 👋, I'm Ancient Sorcerer
-
-<a href="https://stars.github.com/profiles/denvercoder1/">
-    <img src="https://github.com/RicardoMarquina1989/RicardoMarquina1989/blob/main/gifs/bars.gif" alt="Bars Action"/>
-</a>
+# Hello there 👋, I'm Ivan Naumov
 
 ## 📖 About me
 
-**Frontend-focused Full-Stack Engineer with advanced skills in React, Angular, and Node.Js. Skilled in creating dynamic, responsive web applications and experienced in integratingwithGraphQL APIs and optimizing frontend performance. Proficient in backend technologies like Node.js, Python, Java, and PHP, enabling seamlessfull-stack development.**
+**I'm a skilled Frontend Engineer with over five years of experience building engaging, high-performance web applications. Specializing in React, Svelte, Next.js, and Vue.js, I focus on crafting seamless user experiences with modern tools like Tailwind CSS, SvelteKit, and TypeScript.
+
+From sleek portfolios to complex dashboards and e-commerce platforms, I bring ideas to life with clean, scalable, and efficient code. Let’s connect and build something great together!**
 
 ## 📖 What can I do for you?
 
-Highly skilled and experienced Senior Full Stack Developer seeking a challenging position in a dynamic organization. Demonstrating a consistent record of delivering exceptional, scalable, and efficient solutions, I excel in multiple programming languages and frameworks. I possess strong problem-solving abilities and a keen eye for detail, ensuring optimal performance and user experience. Committed to staying updated with the latest technologies, I aim to contribute my expertise and drive innovation in a collaborative team environment.
+I specialize in developing modern, user-friendly web applications using React, Svelte, Next.js, and Vue.js. Whether you need a sleek portfolio, an interactive landing page, a scalable e-commerce platform, or a complex dashboard, I can bring your vision to life with clean, efficient, and high-performance code.
+
+If you’re looking for a frontend expert who can build fast, responsive, and visually appealing applications, let’s connect and discuss how I can help!
 
 Here are my services what I can help you with:
 
@@ -22,15 +22,10 @@ Here are my services what I can help you with:
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-5FA04E.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4.svg?style=for-the-badge&logo=PHP&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC.svg?style=for-the-badge&logo=C&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=C++&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000.svg?style=for-the-badge&logo=Rust&logoColor=white)
-![Solidity](https://img.shields.io/badge/Solidity-363636.svg?style=for-the-badge&logo=Solidity&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-000?style=for-the-badge&logo=MySQL)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white)
 ![Ruby](https://img.shields.io/badge/Ruby-CC342D.svg?style=for-the-badge&logo=Ruby&logoColor=white)
-![Lua](https://img.shields.io/badge/Lua-2C2D72.svg?style=for-the-badge&logo=Lua&logoColor=white)
 ![JSON](https://img.shields.io/badge/JSON-000000.svg?style=for-the-badge&logo=JSON&logoColor=white)
 ![SVG](https://img.shields.io/badge/SVG-FFB13B.svg?style=for-the-badge&logo=SVG&logoColor=black)
 
@@ -38,16 +33,11 @@ Here are my services what I can help you with:
 
 #### Fullstack
 
-![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
-![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
+
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
-![PyTorch](https://img.shields.io/badge/-PyTorch-000?&logo=PyTorch)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
-![Spring](https://img.shields.io/badge/-Spring-000?&logo=Spring)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white)
 ![SQLITE](https://img.shields.io/badge/SQLite-003B57.svg?style=for-the-badge&logo=SQLite&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4.svg?style=for-the-badge&logo=Tailwind-CSS&logoColor=white)
@@ -61,15 +51,14 @@ Here are my services what I can help you with:
 ![Next.js](https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-0F0F11.svg?style=for-the-badge&logo=Angular&logoColor=white)
 ![Svelte](https://img.shields.io/badge/Svelte-FF3E00.svg?style=for-the-badge&logo=Svelte&logoColor=white)
-![WebGL](https://img.shields.io/badge/WebGL-990000.svg?style=for-the-badge&logo=WebGL&logoColor=white)
 
-- Frontend: HTML5, CSS3, Bootstrap, Javascript, Typescript, Jquery, React, Angular, Next.js, lonic, Svelte, Tailwind CSS, MUI, Storybook, KendoUI
+- Frontend: HTML5, CSS3, Bootstrap, Javascript, Typescript, Jquery, React, Angular, Next.js, lonic, Svelte, Tailwind CSS, MUI
 
-- Backend: Node.js, Express, PHP, Ruby, Python Full Stack: MERN, MEAN, Django, Ruby on Rails APIs: Restful, GraphQL, SOAP, FAST
+- Backend: Node.js, Express, PHP, Ruby, Python Full Stack: MERN, MEAN, Django, Ruby on Rails APIs: Restful, FAST
 
-- Database: RDBMS (MySQL, PostgreSQL, Sqlite ), No-SQL (MongoDB, Firestore)
+- Database: MySQL, PostgreSQL, Sqlite, MongoDB
 
-- CI/CD: Ansible, Jenkins, Circle CI, Docker, Kubernetes, Github, Bitbucket
+- CI/CD: Jenkins, Github, Bitbucket
 
 <hr/>
 I am always ready to bring your ideas to real life. Also, what I want to do through the collaboration on the project is to form a friendly relationship with creative and talent teams and mates. I am full-time available for you and I can start the project right now.
