@@ -2,9 +2,9 @@
 
 ## 📖 About me
 
-**I'm a skilled Frontend Engineer with over five years of experience building engaging, high-performance web applications. Specializing in React, Svelte, Next.js, and Vue.js, I focus on crafting seamless user experiences with modern tools like Tailwind CSS, SvelteKit, and TypeScript.
+I'm a skilled Frontend Engineer with over five years of experience building engaging, high-performance web applications. Specializing in React, Svelte, Next.js, and Vue.js, I focus on crafting seamless user experiences with modern tools like Tailwind CSS, SvelteKit, and TypeScript.
 
-From sleek portfolios to complex dashboards and e-commerce platforms, I bring ideas to life with clean, scalable, and efficient code. Let’s connect and build something great together!**
+From sleek portfolios to complex dashboards and e-commerce platforms, I bring ideas to life with clean, scalable, and efficient code. Let’s connect and build something great together!
 
 ## 📖 What can I do for you?
 
